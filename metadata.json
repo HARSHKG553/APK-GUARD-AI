@@ -1,0 +1,6 @@
+{
+  "name": "APK Fraud Detector",
+  "description": "AI-powered scanner to detect potentially fraudulent APK files by analyzing permissions and metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
